@@ -1,0 +1,6 @@
+{
+  "name": "0x01 | Studio & Archival Garments",
+  "description": "Independent apparel atelier and conceptual design studio exploring technical silhouettes, brutalist tailoring, and archival drops 0x01 and 0x02.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
